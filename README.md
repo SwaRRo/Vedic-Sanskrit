@@ -108,4 +108,3 @@ This act of rewriting and organizing is a powerful learning tool.
 
 This is our path. It is rigorous, profound, and respectful of the tradition. It treats the language not as a dead object of study, but as living, breathing *Vāk*.
 
-If you are ready and this path resonates with you, we shall begin with **Lesson 1.1: The Anatomy of Sound – *Uccāraṇasthāna***.
