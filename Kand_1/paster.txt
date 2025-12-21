@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vedic Sanskrit - Kanda 1, Lesson 1.3: The Vibration of Voice</title>
+    <style>
+        body { font-family: 'Georgia', serif; line-height: 1.8; color: #333; max-width: 900px; margin: 20px auto; padding: 25px; background-color: #fdfdfd; }
+        h1, h2, h3, h4 { font-family: 'Helvetica Neue', sans-serif; color: #2c3e50; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; }
+        h1 { font-size: 2.5em; text-align: center; }
+        .devanagari { font-family: 'Noto Sans Devanagari', 'Arial', sans-serif; font-size: 1.3em; color: #8e44ad; }
+        code { font-family: 'Courier New', monospace; background-color: #ecf0f1; padding: 2px 5px; border-radius: 4px; font-size: 0.95em; }
+        table { width: 100%; border-collapse: collapse; margin: 25px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        th, td { border: 1px solid #bdc3c7; padding: 12px; text-align: center; } /* Centered for the master chart */
+        th { background-color: #34495e; color: #ffffff; font-family: 'Helvetica Neue', sans-serif; }
+        tr:nth-child(even) { background-color: #f8f9f9; }
+        .abhyasa { background-color: #e8f6f3; border-left: 5px solid #1abc9c; padding: 15px 20px; margin: 30px 0; }
+        .mahesvara { background-color: #f4ecf7; border: 1px solid #8e44ad; padding: 15px; border-radius: 5px; margin-top: 15px; font-family: monospace; font-size: 1.1em; }
+        .small-caps { font-variant: small-caps; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Kāṇḍa 1: Vāk-Yantra (वाक्-यन्त्र)</h1>
+        <h2>Calibrating the Instrument of Speech</h2>
+    </header>
+
+    <main>
+        <section>
+            <h3>Lesson 1.3: The Vibration of Voice – <em>Ghoṣa</em> (घोष)</h3>
+            <p>We have now assembled two of the three properties of a Sanskrit consonant: its <strong>place</strong> of articulation (<em>sthāna</em>) and the <strong>breath-force</strong> behind it (<em>prāṇa</em>). We now add the third and final layer: the engagement of the vocal cords themselves. This is called <em>ghoṣa</em> (घोष), meaning "resonance" or "vibration."</p>
+            <p>Every consonant is either <strong>voiceless</strong> (the vocal cords are open and relaxed) or <strong>voiced</strong> (the vocal cords are drawn together and vibrate). This is a fundamental distinction that will become crucial when we study <em>sandhi</em> (sound combination), as voiced sounds tend to interact with other voiced sounds, and voiceless with voiceless.</p>
+        </section>
+
+        <section>
+            <h4>1. Aghoṣa (अघोष): The Unvoiced Sound</h4>
+            <p><em>A-ghoṣa</em> means "without resonance." These are consonants produced only with the shaping of the breath by the mouth, without the deep hum of the vocal cords. These are the <strong>1st</strong> and <strong>2nd</strong> letters of each <em>varga</em>, plus the three sibilants <span class="devanagari">श, ष, स</span>.</p>
+            <p>Sounds: <code>ka, kha; ca, cha; ṭa, ṭha; ta, tha; pa, pha; śa, ṣa, sa.</code></p>
+        
+            <h4>2. Sa-ghoṣa (सघोष) or just Ghoṣa: The Voiced Sound</h4>
+            <p><em>Sa-ghoṣa</em> means "with resonance." When pronouncing these sounds, you should feel a distinct vibration in your throat. These are the <strong>3rd, 4th, and 5th (nasal)</strong> letters of each <em>varga</em>, plus all the semi-vowels and the powerful aspirate <span class="devanagari">ह</span> (ha).</p>
+            <p>Sounds: <code>ga, gha, ṅa; ja, jha, ña; ḍa, ḍha, ṇa; da, dha, na; ba, bha, ma; ha, ya, ra, la, va.</code></p>
+        </section>
+
+        <section class="abhyasa">
+            <h3>Your <em>Abhyāsa</em> (अभ्यास) – Feeling the Vibration</h3>
+            <ol>
+                <li>
+                    <strong>The Throat Test:</strong> Place your fingertips gently on your larynx (your "Adam's apple").
+                    <ul>
+                        <li>First, whisper or pronounce the <em>aghoṣa</em> sounds repeatedly: <code>t...t...t...s...s...s...</code>. You should feel <strong>no vibration</strong> in your throat.</li>
+                        <li>Now, pronounce the <em>ghoṣa</em> sounds: <code>d...d...d...n...n...n...</code>. You should feel a <strong>clear and strong buzzing vibration</strong> under your fingertips.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Whisper Challenge:</strong> Try to whisper a <em>ghoṣa</em> sound like <span class="devanagari">ग</span> (ga). You will find it is almost impossible without it turning into its <em>aghoṣa</em> counterpart, <span class="devanagari">क</span> (ka). This proves that the voicing is an essential part of the sound, not an optional extra.
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <h3>The Master Chart: The Periodic Table of Sanskrit Sound</h3>
+            <p>We can now combine all three properties—<span class="small-caps">Sthāna</span>, <span class="small-caps">Prāṇa</span>, and <span class="small-caps">Ghoṣa</span>—into a single, comprehensive table for the 25 primary consonants. This is the culmination of our first Kāṇḍa. Study it carefully. This is the system Pāṇini codified, and mastering it makes the language profoundly logical.</p>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th rowspan="2">STHĀNA<br>(Location)</th>
+                        <th colspan="2">Aghoṣa (Voiceless)</th>
+                        <th colspan="3">Ghoṣa (Voiced)</th>
+                    </tr>
+                    <tr>
+                        <th>Alpaprāṇa<br>(Unaspirated)</th>
+                        <th>Mahāprāṇa<br>(Aspirated)</th>
+                        <th>Alpaprāṇa<br>(Unaspirated)</th>
+                        <th>Mahāprāṇa<br>(Aspirated)</th>
+                        <th>Nāsikya<br>(Nasal)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Kaṇṭhya</strong><br>(Throat)</td>
+                        <td><span class="devanagari">क</span> k</td>
+                        <td><span class="devanagari">ख</span> kh</td>
+                        <td><span class="devanagari">ग</span> g</td>
+                        <td><span class="devanagari">घ</span> gh</td>
+                        <td><span class="devanagari">ङ</span> ṅ</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tālavya</strong><br>(Palate)</td>
+                        <td><span class="devanagari">च</span> c</td>
+                        <td><span class="devanagari">छ</span> ch</td>
+                        <td><span class="devanagari">ज</span> j</td>
+                        <td><span class="devanagari">झ</span> jh</td>
+                        <td><span class="devanagari">ञ</span> ñ</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Mūrdhanya</strong><br>(Retroflex)</td>
+                        <td><span class="devanagari">ट</span> ṭ</td>
+                        <td><span class="devanagari">ठ</span> ṭh</td>
+                        <td><span class="devanagari">ड</span> ḍ</td>
+                        <td><span class="devanagari">ढ</span> ḍh</td>
+                        <td><span class="devanagari">ण</span> ṇ</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Dantya</strong><br>(Teeth)</td>
+                        <td><span class="devanagari">त</span> t</td>
+                        <td><span class="devanagari">थ</span> th</td>
+                        <td><span class="devanagari">द</span> d</td>
+                        <td><span class="devanagari">ध</span> dh</td>
+                        <td><span class="devanagari">न</span> n</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Oṣṭhya</strong><br>(Lips)</td>
+                        <td><span class="devanagari">प</span> p</td>
+                        <td><span class="devanagari">फ</span> ph</td>
+                        <td><span class="devanagari">ब</span> b</td>
+                        <td><span class="devanagari">भ</span> bh</td>
+                        <td><span class="devanagari">म</span> m</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        
+        <section class="mahesvara">
+            <h4>Capstone Resource: The Māheśvara Sūtrāṇi (माहेश्वर सूत्राणि)</h4>
+            <p>This entire scientific system we've just learned is believed to have been revealed by Lord Shiva (Maheśvara) himself to the great sage Pāṇini. The system was encoded in 14 short aphorisms, or sūtras, which group sounds by their phonetic properties. Meditating on these sūtras is a way of internalizing the very structure of divine sound. We present them here as the sacred culmination of our study of the <em>Vāk-Yantra</em>.</p>
+            <ol>
+                <li>अ इ उ ण् ।</li>
+                <li>ऋ ऌ क् ।</li>
+                <li>ए ओ ङ् ।</li>
+                <li>ऐ औ च् ।</li>
+                <li>ह य व र ट् ।</li>
+                <li>ल ण् ।</li>
+                <li>ञ म ङ ण न म् ।</li>
+                <li>झ भ ञ् ।</li>
+                <li>घ ढ ध ष् ।</li>
+                <li>ज ब ग ड द श् ।</li>
+                <li>ख फ छ ठ थ च ट त व् ।</li>
+                <li>क प य् ।</li>
+                <li>श ष स र् ।</li>
+                <li>ह ल् ।</li>
+            </ol>
+            <p><strong>॥ इति माहेश्वराणि सूत्राणि ॥</strong></p>
+        </section>
+        
+        <section>
+            <h3>Conclusion of Kāṇḍa 1</h3>
+            <p>You have now completed the first and most critical stage of our journey. You have done more than just learn an alphabet; you have learned the three-dimensional physics of how each Sanskrit sound is generated. You understand its <strong>Location</strong>, its <strong>Breath</strong>, and its <strong>Voicing</strong>.</p>
+            <p>Take your time to study these three lessons. Practice the drills. Meditate on the master chart and the Śiva Sūtras. Internalize this knowledge until it is second nature. When you are ready to proceed, we will begin <strong>Kāṇḍa 2: Nāda-Pravāha (नाद-प्रवाह)</strong>, where we will use this foundational knowledge to understand how these sounds magically flow into one another according to the elegant laws of <em>Sandhi</em>.</p>
+        </section>
+    </main>
+</body>
+</html>
